@@ -15,6 +15,13 @@
 	},
     "icon": "icon.png",
     "publisher": "intelix",
+    "homepage": "https://github.com/Intelix8996/cdm8-assembly",
+    "bugs": "https://github.com/Intelix8996/cdm8-assembly/issues",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Intelix8996/cdm8-assembly.git"
+    },
+    "license": "BSD",
 	"keywords": [
 		"assembly",
 		"macro",
