@@ -1,5 +1,9 @@
 # cdm8 assembly
 #### Highlighting and snippets for cdm8 assembler
+
+> [!WARNING]
+> This extension is **deprecated**. Use the [CdM Processors](https://marketplace.visualstudio.com/items?itemName=cdm-processors.vscode-cdm-extension) extension instead.
+
 ---
 ## Supports
 + #### cdm8 assembler
